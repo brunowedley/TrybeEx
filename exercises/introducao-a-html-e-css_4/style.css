@@ -11,3 +11,12 @@
     margin-top:10px;
     height: 30px;
 }
+.container li{
+    list-style-type: none;
+    display:inline-block;
+}
+
+.facts{
+    display:inline-block;
+    width: 30%;
+}
