@@ -1,0 +1,13 @@
+.header{
+    
+}
+.navigation{
+    background-color: aquamarine;
+}
+.navigation li{
+    list-style-position: none;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top:10px;
+    height: 30px;
+}
